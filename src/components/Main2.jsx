@@ -4,9 +4,9 @@ import SectionEducacion  from './subComponents/SectionEducacion'
 
 const Main2 = () => {
   return (
-    <div className='col-12 col-lg-8 ps-5'>
-      <section className='m-5'>
-        <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>EDUCATION</h2>
+    <div className='col-12 col-lg-8 ps-0 ps-lg-3 ps-xxl-5 mt-5'>
+      <section className='mt-5 mx-3 mx-md-4 mx-lg-5'>
+        <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>EDUCACION</h2>
             
         <SectionEducacion
           tittle='Teaching / Law'
@@ -25,7 +25,7 @@ const Main2 = () => {
         />
       </section>
 
-      <section className='m-5'>
+      <section className='mt-5 mx-3 mx-md-4 mx-lg-5'>
       <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>SERVICIOS</h2>
         <ul>
           <li className='m-0 mt-5 fs-2 fw-bolder'>Procesos Inmoviliarios</li>
@@ -39,8 +39,8 @@ const Main2 = () => {
         </ul>
       </section>
 
-      <section className='m-5'>
-        <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>ACHIVEMENTS</h2>
+      <section className='mt-5 mx-3 mx-md-4 mx-lg-5'>
+        <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>TRABAJOS</h2>
 
         <div className='d-flex'>
           <div>

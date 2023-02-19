@@ -11,12 +11,12 @@ const Main = () => {
         <h1 className='fw-bold text-center mt-3'>LIC. DOMINGA FLORES</h1>
         <p className='fs-4 text-center text-secondary'>ABOGADA</p>
 
-        <section className='m-5'>
-            <h2 className='d-inline p-2 px-3 text-white fw-bold bg'>ABOUT ME</h2>
+        <section className='mt-5 mx-3 mx-md-4 mx-lg-5'>
+            <h2 className='d-inline p-2 px-3 text-white fw-bold bg'>SOBRE MI</h2>
             <p className='mt-4 fs-5 fw-bolder'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum quibusdam distinctio doloribus. Rerum debitis, inventore, iure sit nulla amet placeat iusto voluptatem quibusdam non tempora, eligendi explicabo excepturi maiores ea.</p>
         </section>
 
-        <section className='m-5'>
+        <section className='mt-5 mx-3 mx-md-4 mx-lg-5'>
             <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>CONTACTO</h2>
             <a className='text-decoration-none text-black' href="https://api.whatsapp.com/send/?phone=18299108808&text&app_absent=0" target='_blank'>
                 <p className='m-0 mt-4 fs-4 fw-bolder'>(829)-910-8808</p>
@@ -37,8 +37,8 @@ const Main = () => {
             <p className='m-0 fs-4 fw-bolder'>name@gmail.com</p> */}
         </section>
 
-        <section className='m-5'>
-            <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>HIGHLIGHTS</h2>
+        <section className='mt-5 mx-3 mx-md-4 mx-lg-5'>
+            <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>CAPACIDADES</h2>
             
 						<SectionHighlights
 							tittle='Psicologia'
