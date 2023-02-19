@@ -42,7 +42,7 @@ const Main2 = () => {
       <section className='mt-5 mx-3 mx-md-4 mx-lg-5'>
         <h2 className='d-inline p-2 px-3 bg text-white fw-bold'>TRABAJOS</h2>
 
-        <div className='d-flex'>
+        <div className='d-block d-lg-flex'>
           <div>
             <SectionEducacion
               tittle='Big Projetc'
